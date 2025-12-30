@@ -9,8 +9,8 @@ We design and deploy AI-powered automation systems for businesses.
 - Internal Operations Automation
 
 ## Our Team
-- Automator A → GitHub | Portfolio
-- Automator B → GitHub | Portfolio
+- John → | Portfolio: https://github.com/john-automated-systems/ai-automation-portfolio | Profile: https://github.com/john-automated-systems/john-automated-systems
+- Tasos → 
 
 ## How We Work
 - Custom-built systems
