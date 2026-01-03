@@ -1,4 +1,4 @@
-# AI Automation Agency
+# Coreflow Automation
 
 We design and deploy AI-powered automation systems for businesses.
 
