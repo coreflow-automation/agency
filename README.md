@@ -10,7 +10,7 @@ We design and deploy AI-powered automation systems for businesses.
 
 ## Our Team
 - John → | Portfolio: https://github.com/john-automated-systems/ai-automation-portfolio | Profile: https://github.com/john-automated-systems/john-automated-systems
-- Tasos → 
+- Tasos → | Portfolio: https://github.com/anastasiosaienterprise-lang/AUTOMATION | Profile: https://github.com/anastasiosaienterprise-lang/Profile
 
 ## How We Work
 - Custom-built systems
